@@ -1,0 +1,63 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS 缓存
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.DDocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+
+# VS Code 编辑器
+.vscode/
+*.code-workspace
+
+# Obsidian 笔记应用（可选）
+.obsidian/
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/cache
+.obsidian/workspace-mobile.json
+
+# Node 项目（如果有）
+node_modules/
+dist/
+*.log
+
+# Python 项目（如果将来加入）
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.env.*
+
+# Xcode / Swift 项目（如果涉及 iOS/macOS App）
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+*.xcuserstate
+DerivedData/
+
+# Markdown 临时文件（如自动保存）
+*.tmp.md
+*~.md
+
+# 其他编辑器
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.iml
+
+# 压缩文件或导出备份
+*.zip
+*.tar.gz
+*.bak
+*.swp
