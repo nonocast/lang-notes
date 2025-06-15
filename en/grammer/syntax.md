@@ -20,7 +20,7 @@
 - Adverbial (状语): 修饰动词、句子，表达时间、地点、方式等 She works at home.
 - Attributive (定语): 修饰名词，A smart boy.
 
-##### 注:
+#### 注
 1. Complement (补语) 分为 Subject Complement 和 Ojbect Complement
 2. 状语7种类型:
 	1. 时间状语: 什么时候, I met him yesterday.
@@ -52,33 +52,40 @@
 ### 主谓宾 (SVO)
 
 基本结构: 
+
 `Subject (主语) + Verb (及物动词) + Object (宾语)`
+
 `Simple Sentence (简单句) = 只有一个主语 + 一个谓语结构 (可能带宾语、补语、状语、但没有从句、页不并列两个完整句子)`
 
 示例:
+
 - I like coffee.
 - We build smart systems.
 - She reads books.
 
 理解要点:
+
 - 动词是"及物动词" (transitive verb), 必须有宾语
 - 宾语是"动作承受者"
 - SVO句子语义完整，是描述行为/事实的核心结构
 
 举例:
+
 `A kind boy with glasses is looking for his notebook.`
+
 - S: A kind boy with glasses (with galsses是一个介词短语作定语修饰boy)
 - V: is looking for (现在进行时，look for是及物固定动词短语)
 - O: his notebook
+
 只有一个主语和一个谓语结构，没有从句或并列句，所以是SVO简单句。
 
 `I read books in the library every morning.`
+
 - S: I
 - V: read
 - O: books
 - 状语 (地方): in the library
 - 状语 (时间): every morning
-
 
 ## 二、复合句
 
